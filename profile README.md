@@ -3,7 +3,7 @@
 This repository contains the code for creating a GitHub profile README.
 
 ## Requirements
-Make sure you have a GitHub account.
+Make sure you have a working GitHub account.
 
 ## Installation Steps
 
