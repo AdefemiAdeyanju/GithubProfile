@@ -1,4 +1,4 @@
-# Create a GitHub profile README
+# GitHub profile README
 
 This repository contains the code for creating a GitHub profile README.
 
