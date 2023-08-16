@@ -11,5 +11,4 @@ Make sure you have a GitHub account.
 2. `.github/workflows/blog-post-workflow.yml` contains the workflow configuration to pull latest published blog. Add the same folder structure with its contents to your GitHub repository.
 
 ## License
-
-SitePoint's code archives and code examples are licensed under the MIT license.
+Code examples are licensed under the MIT license.
