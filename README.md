@@ -20,7 +20,7 @@
 
 ---
 
-### 🙂About Me:
+### 🙂 About Me:
 I am a Data Scientist/Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: I’m working as a Machine Learning Engineer and contributing to open source projects.
   
