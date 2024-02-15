@@ -21,12 +21,12 @@
 ---
 
 ### 🙂 About Me:
-I am a Data Scientist/Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Machine Learning Engineer and contributing to open source projects.
+I am a Data Scientist/Machine Learning Engineer and a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: Data scientist, Machine Learning Engineer, and Mobile App Developer passionate about leveraging data-driven insights and cutting-edge technology to solve real-world problems.
   
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical writing and New Technologies.
 
-- :zap: In my free time, I play with data, watch movies, and read articles.
+- :zap: In my free time, I cook, watch movies, and read articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/adefemiadeyanju)
 
