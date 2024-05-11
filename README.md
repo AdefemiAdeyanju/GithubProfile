@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/adefemiadeh">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/frasch_x">
+    <a href="https://twitter.com/adefemiadeh">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -21,8 +21,8 @@
 ---
 
 ### 🙂 About Me:
-I am a Data Scientist/Machine Learning Engineer and a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: Data scientist, Machine Learning Engineer, and Mobile App Developer passionate about leveraging data-driven insights and cutting-edge technology to solve real-world problems.
+I am a Data Scientistand Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- :telescope: Data scientist, Machine Learning Engineer passionate about leveraging data-driven insights and cutting-edge technology to solve real-world problems.
   
 - :seedling: Exploring Technical writing and New Technologies.
 
