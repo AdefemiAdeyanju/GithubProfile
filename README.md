@@ -21,7 +21,7 @@
 ---
 
 ### 🙂 About Me:
-I am a Data Scientistand Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Data Scientist and Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - :telescope: Data scientist, Machine Learning Engineer passionate about leveraging data-driven insights and cutting-edge technology to solve real-world problems.
   
 - :seedling: Exploring Technical writing and New Technologies.
